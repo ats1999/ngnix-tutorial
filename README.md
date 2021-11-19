@@ -81,4 +81,14 @@ curl localhost
 #### Go to local server
 http://localhost
 
+
+## Few basic commands
+```js
+// start 
+systemctl start nginx
+// status
+systemctl status nginx
+// stop
+systemctl stop nginx
+```
 ## Cheers
